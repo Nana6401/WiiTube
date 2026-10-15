@@ -13,5 +13,5 @@ to setup simply:
 2) copy the wiiu folder to the root of your wii u sdcard
 3) go inside the wiiu folder then apps and then wiitube
 4) change the content of api.txt to your youtube data v3 api key
-5) save
+5) save,
 after that you should be good to go
